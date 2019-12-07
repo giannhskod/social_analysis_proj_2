@@ -1,0 +1,5 @@
+
+_bsp/*
+bin/*
+lib/*
+.classpath

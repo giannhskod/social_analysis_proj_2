@@ -36,3 +36,5 @@ methods that customizes the Vertex based on the requirements of the problem.
 
 If you run the project throw an Eclipse workspace then the configured output folder has to be deleted. The programm will 
 auto-generate it at the end of the computations.
+
+[Project github link](https://github.com/giannhskod/social_analysis_proj_2)

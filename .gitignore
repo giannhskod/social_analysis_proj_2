@@ -1,5 +1,9 @@
 
 _bsp/*
+part2/_bsp/*
 bin/*
+part2/bin/*
 lib/*
+part2/lib/*
 .classpath
+part2/.classpath
